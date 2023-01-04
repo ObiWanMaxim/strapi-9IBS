@@ -16,13 +16,10 @@
     "@strapi/plugin-i18n": "^4.5.5",
     "@strapi/plugin-users-permissions": "4.5.3",
     "@strapi/provider-upload-aws-s3": "^4.5.5",
-    "@strapi/provider-upload-cloudinary": "4.5.3",
     "@strapi/strapi": "4.5.3",
     "@webbio/strapi-plugin-scheduler": "^0.1.2",
     "pg": "8.7.3",
     "strapi-plugin-cookie-manager": "^1.0.8",
-    "strapi-plugin-populate-deep": "^1.1.2",
-    "strapi-plugin-sitemap": "^2.0.9",
     "strapi-plugin-todo": "^0.0.9"
   },
   "author": {
