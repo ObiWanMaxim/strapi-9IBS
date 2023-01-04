@@ -10,17 +10,11 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@ckeditor/strapi-plugin-ckeditor": "^0.0.5",
-    "@offset-dev/strapi-calendar": "^0.0.9",
-    "@strapi/plugin-graphql": "^4.5.5",
-    "@strapi/plugin-i18n": "^4.5.5",
+    "@strapi/plugin-i18n": "4.5.3",
     "@strapi/plugin-users-permissions": "4.5.3",
     "@strapi/provider-upload-aws-s3": "^4.5.5",
     "@strapi/strapi": "4.5.3",
-    "@webbio/strapi-plugin-scheduler": "^0.1.2",
-    "pg": "8.7.3",
-    "strapi-plugin-cookie-manager": "^1.0.8",
-    "strapi-plugin-todo": "^0.0.9"
+    "pg": "8.7.3"
   },
   "author": {
     "name": "A Strapi developer"
