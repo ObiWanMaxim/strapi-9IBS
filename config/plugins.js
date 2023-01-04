@@ -4,12 +4,12 @@ module.exports = ({ env }) => ({
       jwtSecret: env("JWT_SECRET"),
     },
   },
-  scheduler: {
-    enabled: true,
-    config: {
-      model: 'scheduler',
-    },
-  },
+  // scheduler: {
+  //   enabled: true,
+  //   config: {
+  //     model: 'scheduler',
+  //   },
+  // },
   'cookie-manager': {
     enabled: true,
     config: {
