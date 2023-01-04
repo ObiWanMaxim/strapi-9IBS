@@ -13,12 +13,12 @@ module.exports = ({ env }) => ({
   //     model: 'scheduler',
   //   },
   // },
-  // 'cookie-manager': {
-  //   enabled: true,
-  //   config: {
-  //     localization: true,
-  //   },
-  // },
+  'cookie-manager': {
+    enabled: true,
+    config: {
+      localization: true,
+    },
+  },
   upload: {
     config: {
       provider: "aws-s3",
